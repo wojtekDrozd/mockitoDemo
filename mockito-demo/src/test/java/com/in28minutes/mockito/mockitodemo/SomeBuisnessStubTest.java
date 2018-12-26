@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class SomeBuisnessTest {
+public class SomeBuisnessStubTest {
 
 	@Test
 	public void TestFindGreatestFromAllData() {
